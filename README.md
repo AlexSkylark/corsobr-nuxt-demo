@@ -72,4 +72,6 @@ yarn preview
 bun run preview
 ```
 
+https://www.figma.com/proto/R4jJl4b3RjSDhrXxMtBnyM/RCG-Digital?page-id=0%3A1&type=design&node-id=1-3437&viewport=307%2C360%2C0.17&t=rkEv0rjAEjP6GYAH-1&scaling=min-zoom&starting-point-node-id=1%3A3437
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
